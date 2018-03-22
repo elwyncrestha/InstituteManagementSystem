@@ -438,8 +438,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="442">
+              <caret line="26" column="107" lean-forward="true" selection-start-line="26" selection-start-column="107" selection-end-line="26" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -481,7 +481,6 @@
         <option value="$PROJECT_DIR$/web/adminHome.jsp" />
         <option value="$PROJECT_DIR$/web/pageHeader.jsp" />
         <option value="$PROJECT_DIR$/web/editDetails.jsp" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/controller/CourseController.java" />
         <option value="$PROJECT_DIR$/web/addCourse.jsp" />
         <option value="$PROJECT_DIR$/src/model/StudentModel.java" />
@@ -520,6 +519,7 @@
         <option value="$PROJECT_DIR$/web/footer.jsp" />
         <option value="$PROJECT_DIR$/src/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -853,12 +853,12 @@
       <workItem from="1521459735533" duration="1406000" />
       <workItem from="1521476366911" duration="388000" />
       <workItem from="1521521175265" duration="9470000" />
-      <workItem from="1521701578586" duration="7511000" />
+      <workItem from="1521701578586" duration="9720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158537000" />
+    <option name="totallyTimeSpent" value="160746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1307,8 +1307,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state relative-caret-position="442">
+          <caret line="26" column="107" lean-forward="true" selection-start-line="26" selection-start-column="107" selection-end-line="26" selection-end-column="107" />
           <folding />
         </state>
       </provider>
