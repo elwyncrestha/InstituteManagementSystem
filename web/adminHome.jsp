@@ -23,12 +23,12 @@
                 <li class="breadcrumb-item">
                     <a href="${pageContext.request.contextPath}/admin/dashboard">Dashboard</a>
                 </li>
-                <li class="breadcrumb-item active">Blank Page</li>
+                <li class="breadcrumb-item active">IMS</li>
             </ol>
             <div class="row">
-                <div class="col-12">
-                    <h1>Blank</h1>
-                    <p>This is an example of a blank page that you can use as a starting point for creating new ones.</p>
+                <div class="col-12 jumbotron">
+                    <h1>Institute Management System</h1>
+                    <p>Contains student and course information. Manages examination. Protected by simple login.</p>
                 </div>
             </div><!---row-close---->
         </div><!---container-fluid-close--->

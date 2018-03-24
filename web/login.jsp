@@ -35,8 +35,7 @@
                 <input type="submit" class="btn btn-primary btn-block" value="Login">
             </form>
             <div class="text-center">
-                <a class="d-block small mt-3" href="register.html">Register an Account</a>
-                <a class="d-block small" href="forgot-password.html">Forgot Password?</a>
+                <a class="d-block small mt-3" href="${pageContext.request.contextPath}/register">Register an Account</a>
                 <a class="d-block small" href="${pageContext.request.contextPath}/index">Go to main page</a>
             </div>
         </div>
