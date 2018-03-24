@@ -20,6 +20,7 @@ public class AdminController extends HttpServlet {
         if(request.getRequestURI().equals(request.getContextPath()+"/admin/dashboard")){
             RequestDispatcher requestDispatcher = request.getRequestDispatcher("/adminHome.jsp");
             requestDispatcher.forward(request,response);
+
         }
     }
 }
