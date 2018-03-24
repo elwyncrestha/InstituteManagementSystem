@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 @WebServlet({"/404","/login","/logout","/logoutRoot","/index"})
 public class IndexController extends HttpServlet {
@@ -20,6 +21,9 @@ public class IndexController extends HttpServlet {
             String username = request.getParameter("username");
             String password = request.getParameter("password");
 
+            if (username.equals("admin") && password.equals("admin")){
+                processRequest(request,response,"You fool !!!");
+            }
             boolean validationStatus = RegistrationDao.validateUser(username,password);
 
             if (validationStatus == true){
@@ -58,6 +62,21 @@ public class IndexController extends HttpServlet {
             httpSession.invalidate();
             System.out.println("Root logout successful");
             response.sendRedirect(cp+"/index");
+        }
+    }
+
+    protected void processRequest(HttpServletRequest request, HttpServletResponse response, String message) throws ServletException, IOException{
+        response.setContentType("text/html;charset=UTF-8");
+        try(PrintWriter out = response.getWriter()){
+            out.println("<!DOCTYPE html>");
+            out.println("<html>");
+            out.println("<head>");
+            out.println("<title>IMS</title>");
+            out.println("</head>");
+            out.println("<body>");
+            out.println("<h1>"+message+"</h1>");
+            out.println("</body>");
+            out.println("</html>");
         }
     }
 }
