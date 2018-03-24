@@ -1,4 +1,4 @@
-package controller;
+package controller.backend;
 
 import dao.CourseDao;
 import dao.ExamDao;

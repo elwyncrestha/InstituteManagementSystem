@@ -21,10 +21,11 @@
   <!----Bootstrap-stylesheets, js and jquery close---->
 
   <body class="fixed-nav sticky-footer bg-dark" id="page-top">
-  <div class="jumbotron">
+  <div class="jumbotron text-center">
     <h1>Welcome to Institute Management System</h1>
     <br>
     <a class="btn btn-info btn-lg" href="${pageContext.request.contextPath}/admin/dashboard">Admin Home</a>
+    <a class="btn btn-primary btn-lg" href="${pageContext.request.contextPath}/frontend/homepage">Student Home</a>
   </div><!---jumbotron-close---->
   </body>
 </html>

@@ -1,4 +1,6 @@
-package controller;
+package controller.backend;
+
+import dao.RegistrationDao;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -18,7 +20,9 @@ public class IndexController extends HttpServlet {
             String username = request.getParameter("username");
             String password = request.getParameter("password");
 
-            if (username.equals("admin") && password.equals("admin")){
+            boolean validationStatus = RegistrationDao.validateUser(username,password);
+
+            if (validationStatus == true){
                 HttpSession httpSession = request.getSession(); //blank parameter in this method indicates creation of new session
                 httpSession.setAttribute("user","admin");
                 System.out.println("Login successful");

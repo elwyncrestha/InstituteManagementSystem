@@ -1,4 +1,4 @@
-package controller;
+package controller.backend;
 
 import com.mysql.fabric.xmlrpc.base.Array;
 import dao.CourseDao;
