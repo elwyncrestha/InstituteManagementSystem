@@ -26,7 +26,7 @@
     <script src="${cp}/afrontend/js/bootstrap.js"></script>
 </head>
 
-<body data-spy="scroll" data-target="#my-navbar">
+<body data-target="#my-navbar"> <!--- data-spy="scroll" not working---->
 <nav class="navbar navbar-inverse navbar-fixed-top" id="my-navbar">
     <div class="container">
         <div class="navbar-header">
@@ -36,11 +36,11 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <a href="${cp}/frontend/homepage" class="navbar-brand" style="color: #eb9316">IMS</a>
+            <a href="${cp}/frontend/homepage" class="navbar-brand" style="color: #5bc0de">IMS</a>
         </div><!---navbar-header-close--->
         <div class="collapse navbar-collapse" id="navbar-collapse">
 
-            <a href="${cp}/admin/dashboard" class="btn btn-warning navbar-btn navbar-right">Admin</a>
+            <a href="${cp}/admin/dashboard" class="btn btn-info navbar-btn navbar-right">Admin</a>
 
             <ul class="nav navbar-nav">
                 <li><a href="#about">About</a></li>
@@ -59,9 +59,9 @@
         <p>Contains student and course information. Manages examination.</p>
 
         <div class="btn-group">
-            <a href="" class="btn btn-lg btn-warning">Download App</a>
-            <a href="" class="btn btn-lg btn-default">Visit Store</a>
-            <a href="" class="btn btn-lg btn-warning">Spread the word</a>
+            <a href="" class="btn btn-lg btn-info">Download App</a>
+            <a href="" class="btn btn-lg btn-default">Visit Institute</a>
+            <a href="#footer" class="btn btn-lg btn-info">Spread the word</a>
         </div>
     </div><!---container-close--->
 </div><!---jumbotron-close--->
@@ -114,16 +114,16 @@
             <h3>Contact for more information about the institute</h3>
             <p>Enter your name and email</p>
 
-            <form action="" class="form-inline">
+            <form action="${cp}/frontend/subscription/add" method="post" class="form-inline">
                 <div class="form-group">
                     <label for="subscription">Name</label>
-                    <input type="text" class="form-control" id="subscription" placeholder="Your name">
+                    <input type="text" name="name" class="form-control" id="subscription" placeholder="Your full name">
                 </div>
                 <div class="form-group">
                     <label for="email">Email address</label>
-                    <input type="text" class="form-control" id="email" placeholder="Your email">
+                    <input type="text" name="email" class="form-control" id="email" placeholder="Your email">
                 </div>
-                <button type="button" class="btn btn-default">Contact</button>
+                <input type="submit" class="btn btn-default" value="Contact">
                 <hr />
             </form>
         </div><!---container-close---->
@@ -450,22 +450,22 @@
 
 <!---footer--->
 
-<footer>
+<footer id="footer">
     <hr>
     <div class="container text-center">
         <h3>Subscribe for notifications via email</h3>
         <p>Enter your name and email</p>
 
-        <form action="" class="form-inline">
+        <form action="${cp}/frontend/subscription/add" method="post" class="form-inline">
             <div class="form-group">
                 <label for="subscription0">Subscribe</label>
-                <input type="text" class="form-control" id="subscription0" placeholder="Your name">
+                <input type="text" name="name" class="form-control" id="subscription0" placeholder="Your full name">
             </div>
             <div class="form-group">
                 <label for="email0">Email address</label>
-                <input type="text" class="form-control" id="email0" placeholder="Your email">
+                <input type="text" name="email" class="form-control" id="email0" placeholder="Your email">
             </div>
-            <button type="button" class="btn btn-default">Subscribe</button>
+            <input type="submit" class="btn btn-default" value="Subscribe">
         </form>
 
         <hr>

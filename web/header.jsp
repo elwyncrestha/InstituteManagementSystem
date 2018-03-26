@@ -87,6 +87,12 @@
                     <!----- add add subject and display subjects pages ------------------->
                 </ul>
             </li>
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Subscription">
+                <a class="nav-link" href="${pageContext.request.contextPath}/frontend/subscription/display">
+                    <i class="fa fa-fw fa-bell"></i>
+                    <span class="nav-link-text">Subscriptions</span>
+                </a>
+            </li>
         </ul>
         <ul class="navbar-nav sidenav-toggler">
             <li class="nav-item">
