@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mail">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk-9.0.4/exlib/mail.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk-9.0.4/exlib/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
