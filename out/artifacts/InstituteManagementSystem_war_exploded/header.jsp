@@ -32,6 +32,12 @@
                     <span class="nav-link-text">Notifications</span>
                 </a>
             </li>
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="User">
+                <a class="nav-link" href="${pageContext.request.contextPath}/register/display">
+                    <i class="fa fa-fw fa-user"></i>
+                    <span class="nav-link-text">Display Users</span>
+                </a>
+            </li>
             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Course">
                 <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseCourse" data-parent="#exampleAccordion">
                     <i class="fa fa-fw fa-book"></i>
