@@ -11,8 +11,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 
-@WebServlet("/register")
+@WebServlet({"/register","/register/display","/register/delete"})
 public class RegistrationController extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         if (request.getRequestURI().equals(request.getContextPath()+"/register")){
@@ -39,6 +40,20 @@ public class RegistrationController extends HttpServlet {
         if (request.getRequestURI().equals(request.getContextPath()+"/register")){
             RequestDispatcher requestDispatcher = request.getRequestDispatcher("/registerAccount.jsp");
             requestDispatcher.forward(request,response);
+        }
+        else if (request.getRequestURI().equals(request.getContextPath()+"/register/display")){
+            ArrayList<RegistrationModel> arrayList = RegistrationDao.displayRegUser();
+            request.setAttribute("userInfo",arrayList);
+            request.getRequestDispatcher("/displayUser.jsp").forward(request,response);
+        }
+        else if (request.getRequestURI().equals(request.getContextPath()+"/register/delete")){
+            String email = request.getParameter("email");
+            if (RegistrationDao.deleteUser(email) == true){
+                response.sendRedirect(request.getContextPath()+"/register/display");
+            }
+            else{
+                processRequest(request,response,"Deletion process failed !!!");
+            }
         }
     }
 
