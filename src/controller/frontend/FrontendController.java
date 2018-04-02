@@ -4,6 +4,7 @@ import dao.CourseDao;
 import dao.StudentDao;
 import dao.SubscriptionDao;
 import jdk.jshell.JShell;
+import mailController.MailController;
 import model.CourseModel;
 import model.StudentModel;
 import model.SubscriptionModel;
@@ -33,6 +34,10 @@ public class FrontendController extends HttpServlet {
             //send to dao
             if (SubscriptionDao.insert(subscriptionModel) == true){
                 System.out.println("One row inserted");
+                boolean mailStatus = MailController.sendEmail(email,"IMS Subscription","You've been subscribed to Institute Management System");
+                if (mailStatus){
+                    System.out.println("Subscription email was sent to "+email);
+                }
                 response.sendRedirect(cp+"/frontend/homepage");
             }
             else{
