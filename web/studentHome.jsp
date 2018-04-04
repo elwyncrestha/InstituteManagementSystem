@@ -458,7 +458,7 @@
 
         <form action="${cp}/frontend/subscription/add" method="post" class="form-inline">
             <div class="form-group">
-                <label for="subscription0">Subscribe</label>
+                <label for="subscription0">Name</label>
                 <input type="text" name="name" class="form-control" id="subscription0" placeholder="Your full name">
             </div>
             <div class="form-group">
