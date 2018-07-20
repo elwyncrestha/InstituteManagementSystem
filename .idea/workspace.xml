@@ -1,417 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="InstituteManagementSystem:war exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="152bed6b-dc78-4a72-8577-2a389980935c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/InstituteManagementSystem_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_45_bin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/InstituteManagementSystem.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/controller/AdminController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/controller/CourseController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/controller/ExamController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/controller/IndexController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/controller/RelationshipController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/controller/StudentController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/CourseDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/ExamDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/MyConnection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/RelationshipDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/dao/StudentDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/filter/DomainFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/filter/LoginFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/model/CourseModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/model/ExamModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/model/StudentCourseModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/model/StudentModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/model/SubjectModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._.DS_Store" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._.jsbeautifyrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._blank.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._cards.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._charts.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._forgot-password.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._navbar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._register.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/._tables.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/.jsbeautifyrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/blank.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/cards.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/charts.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/css/._sb-admin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/css/._sb-admin.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/css/sb-admin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/css/sb-admin.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/forgot-password.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/._sb-admin-charts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/._sb-admin-charts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/._sb-admin-datatables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/._sb-admin-datatables.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/._sb-admin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/._sb-admin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/sb-admin-charts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/sb-admin-charts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/sb-admin-datatables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/sb-admin-datatables.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/sb-admin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/js/sb-admin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/navbar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._.DS_Store" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._blank.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._cards.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._charts.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._forgot-password.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._index.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._login.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._navbar.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._register.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/._tables.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/blank.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/cards.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/charts.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/forgot-password.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/._footer.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/._navbar.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/._scroll-to-top.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/css/._core.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/css/._custom.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/css/core.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/css/custom.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/footer.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/js/._core.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/js/._custom.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/js/core.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/js/custom.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/modals/._logout.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/modals/logout.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/navbar.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/includes/scroll-to-top.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/index.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/login.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/navbar.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/register.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/pug/tables.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/register.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/.__cards.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/.__footer.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/.__global.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/.__login.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/.__mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/.__utilities.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/.__variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/._sb-admin.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/_cards.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/_footer.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/_global.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/_login.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/_utilities.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/.__navbar_colors.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/.__navbar_fixed.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/.__navbar_global.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/.__navbar_static.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/.__navbar_toggle.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/_navbar_colors.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/_navbar_fixed.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/_navbar_global.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/_navbar_static.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/navbar/_navbar_toggle.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/scss/sb-admin.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/tables.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/._bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/._bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/._bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/._bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/._bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/._bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/js/._bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/js/._bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/._Chart.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/._Chart.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/._Chart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/._Chart.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/Chart.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/Chart.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/Chart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/chart.js/Chart.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/datatables/._dataTables.bootstrap4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/datatables/._dataTables.bootstrap4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/datatables/._jquery.dataTables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/datatables/dataTables.bootstrap4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/datatables/dataTables.bootstrap4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/datatables/jquery.dataTables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/css/._font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/css/._font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/._FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/._fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/._fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/._fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/._fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/._fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._animated.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._bordered-pulled.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._core.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._fixed-width.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._font-awesome.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._icons.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._larger.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._list.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._path.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._rotated-flipped.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._screen-reader.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._stacked.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/._variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/animated.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/bordered-pulled.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/core.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/fixed-width.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/font-awesome.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/icons.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/larger.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/list.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/path.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/rotated-flipped.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/screen-reader.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/stacked.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/less/variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__animated.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__bordered-pulled.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__core.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__fixed-width.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__icons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__larger.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__path.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__rotated-flipped.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__stacked.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/.__variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/._font-awesome.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_animated.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_core.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_icons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_larger.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_path.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_stacked.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/font-awesome/scss/font-awesome.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery-easing/._jquery.easing.compatibility.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery-easing/._jquery.easing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery-easing/._jquery.easing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery-easing/jquery.easing.compatibility.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery-easing/jquery.easing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery-easing/jquery.easing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery/._jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery/._jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/jquery/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/popper/._popper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/popper/._popper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/popper/popper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-gh-pages/vendor/popper/popper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/404.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/addCourse.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/addQuestion.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/addStudent.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/addSubject.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/adminHome.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/chooseSubject.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/._sb-admin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/._sb-admin.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/sb-admin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/sb-admin.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/displayCourse.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/displayQuestion.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/displayStudent.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/displaySubject.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/editCourse.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/editStudent.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/enrolledStudent.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/footer.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/header.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/._sb-admin-charts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/._sb-admin-charts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/._sb-admin-datatables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/._sb-admin-datatables.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/._sb-admin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/._sb-admin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/sb-admin-charts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/sb-admin-charts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/sb-admin-datatables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/sb-admin-datatables.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/sb-admin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/sb-admin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/pageHeader.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/studentCourse.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/._bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/._bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/._bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/._bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/._bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/._bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/._bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/._bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/._Chart.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/._Chart.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/._Chart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/._Chart.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/Chart.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/Chart.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/Chart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/chart.js/Chart.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/datatables/._dataTables.bootstrap4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/datatables/._dataTables.bootstrap4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/datatables/._jquery.dataTables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/datatables/dataTables.bootstrap4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/datatables/dataTables.bootstrap4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/datatables/jquery.dataTables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/css/._font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/css/._font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/._FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/._fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/._fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/._fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/._fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/._fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._animated.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._bordered-pulled.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._core.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._fixed-width.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._font-awesome.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._icons.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._larger.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._list.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._path.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._rotated-flipped.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._screen-reader.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._stacked.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/._variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/animated.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/bordered-pulled.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/core.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/fixed-width.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/font-awesome.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/icons.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/larger.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/list.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/path.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/rotated-flipped.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/screen-reader.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/stacked.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/less/variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__animated.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__bordered-pulled.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__core.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__fixed-width.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__icons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__larger.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__path.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__rotated-flipped.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__stacked.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/.__variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/._font-awesome.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_animated.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_core.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_icons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_larger.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_path.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_stacked.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/font-awesome/scss/font-awesome.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/._jquery.easing.compatibility.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/._jquery.easing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/._jquery.easing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/jquery.easing.compatibility.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/jquery.easing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/jquery.easing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery/._jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery/._jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/popper/._popper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/popper/._popper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/popper/popper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/vendor/popper/popper.min.js" />
+    <list default="true" id="a257baf0-8a53-4740-914f-02ed14f90db2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/InstituteManagementSystem_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mail.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_45_bin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/InstituteManagementSystem.iml" afterPath="$PROJECT_DIR$/InstituteManagementSystem.iml" />
+      <change beforePath="$PROJECT_DIR$/src/controller/backend/AdminController.java" afterPath="$PROJECT_DIR$/src/controller/backend/AdminController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -421,49 +20,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
-    <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Tag Library Descriptor" />
-        <option value="HTML File" />
-        <option value="Jsp File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>example</find>
-      <find>answer</find>
-      <find>admin</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -472,75 +28,11 @@
       <projects_view />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/addSubject.jsp" />
-        <option value="$PROJECT_DIR$/src/dao/ExamDao.java" />
-        <option value="$PROJECT_DIR$/src/controller/ExamController.java" />
-        <option value="$PROJECT_DIR$/web/displaySubject.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/AdminController.java" />
-        <option value="$PROJECT_DIR$/src/controller/BasicController.java" />
-        <option value="$PROJECT_DIR$/src/filter/DomainFilter.java" />
-        <option value="$PROJECT_DIR$/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/filter/LoginFilter.java" />
-        <option value="$PROJECT_DIR$/web/coursestudent.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/CourseStudentController.java" />
-        <option value="$PROJECT_DIR$/web/studentcourse.jsp" />
-        <option value="$PROJECT_DIR$/src/model/StudentCourseModel.java" />
-        <option value="$PROJECT_DIR$/web/studentCourse.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/RelationshipController.java" />
-        <option value="$PROJECT_DIR$/src/dao/RelationshipDao.java" />
-        <option value="$PROJECT_DIR$/web/enrolledStudent.jsp" />
-        <option value="$PROJECT_DIR$/web/footer.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/IndexController.java" />
-        <option value="$PROJECT_DIR$/web/adminHome.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/backend/StudentController.java" />
-        <option value="$PROJECT_DIR$/web/homepage.jsp" />
-        <option value="$PROJECT_DIR$/web/displayQuestion.jsp" />
-        <option value="$PROJECT_DIR$/web/login.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/backend/RegisterController.java" />
-        <option value="$PROJECT_DIR$/web/registerAccount.jsp" />
-        <option value="$PROJECT_DIR$/src/model/RegistrationModel.java" />
-        <option value="$PROJECT_DIR$/src/controller/backend/EveneController.java" />
-        <option value="$PROJECT_DIR$/src/controller/backend/EventController.java" />
-        <option value="$PROJECT_DIR$/web/events.jsp" />
-        <option value="$PROJECT_DIR$/web/frontendheader.jsp" />
-        <option value="$PROJECT_DIR$/web/frontpage.jsp" />
-        <option value="$PROJECT_DIR$/web/displayStudent.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/backend/AdminController.java" />
-        <option value="$PROJECT_DIR$/src/controller/backend/IndexController.java" />
-        <option value="$PROJECT_DIR$/src/model/SubscriptionModel.java" />
-        <option value="$PROJECT_DIR$/web/displaySubscription.jsp" />
-        <option value="$PROJECT_DIR$/src/dao/SubscriptionDao.java" />
-        <option value="$PROJECT_DIR$/web/addCourse.jsp" />
-        <option value="$PROJECT_DIR$/src/asd.java" />
-        <option value="$PROJECT_DIR$/web/studentHome.html" />
-        <option value="$PROJECT_DIR$/web/404.jsp" />
-        <option value="$PROJECT_DIR$/web/header.jsp" />
-        <option value="$PROJECT_DIR$/web/displayUser.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/backend/RegistrationController.java" />
-        <option value="$PROJECT_DIR$/src/dao/RegistrationDao.java" />
-        <option value="$PROJECT_DIR$/src/controller/backend/MailController.java" />
-        <option value="$PROJECT_DIR$/src/mailController/MailController.java" />
-        <option value="$PROJECT_DIR$/web/studentHome.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/frontend/FrontendController.java" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -548,9 +40,8 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -563,77 +54,15 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="InstituteManagementSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InstituteManagementSystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InstituteManagementSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InstituteManagementSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InstituteManagementSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InstituteManagementSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InstituteManagementSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InstituteManagementSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InstituteManagementSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InstituteManagementSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InstituteManagementSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InstituteManagementSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="InstituteManagementSystem" type="58d84e3e:PackageViewProjectNode" />
-              <item name="InstituteManagementSystem" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-9.0.4/exlib/activation.jar!/" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Elvin\Study and Work\Documents\Study\IT Training Nepal\JAVA\IntellijProject\InstituteManagementSystem\web" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -723,77 +152,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Tomcat 9.0.2" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.2" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment>
-        <artifact name="InstituteManagementSystem:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_2_InstituteManagementSystem" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="4593" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="InstituteManagementSystem:war exploded" />
-        </option>
-      </method>
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -804,546 +162,60 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration" myUseAcceleration="nothing">
-    <configuration>C:\Users\elwyn\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="152bed6b-dc78-4a72-8577-2a389980935c" name="Default" comment="" />
-      <created>1519022548506</created>
+      <changelist id="a257baf0-8a53-4740-914f-02ed14f90db2" name="Default" comment="" />
+      <created>1531986426252</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1519022548506</updated>
-      <workItem from="1519022560403" duration="6026000" />
-      <workItem from="1519044461229" duration="193000" />
-      <workItem from="1519101997987" duration="4802000" />
-      <workItem from="1519118519330" duration="896000" />
-      <workItem from="1519195574325" duration="3823000" />
-      <workItem from="1519205916659" duration="9079000" />
-      <workItem from="1520256591496" duration="3217000" />
-      <workItem from="1520264437678" duration="650000" />
-      <workItem from="1520316514258" duration="5486000" />
-      <workItem from="1520402729591" duration="1952000" />
-      <workItem from="1520406402729" duration="1709000" />
-      <workItem from="1520408163594" duration="2228000" />
-      <workItem from="1520490703424" duration="8178000" />
-      <workItem from="1520610656420" duration="1841000" />
-      <workItem from="1520663425784" duration="9839000" />
-      <workItem from="1520686523453" duration="285000" />
-      <workItem from="1520686817463" duration="160000" />
-      <workItem from="1520687090472" duration="68000" />
-      <workItem from="1520687208469" duration="363000" />
-      <workItem from="1520688171833" duration="677000" />
-      <workItem from="1520749215808" duration="17081000" />
-      <workItem from="1520837182295" duration="4377000" />
-      <workItem from="1520860019388" duration="1202000" />
-      <workItem from="1520923645459" duration="3927000" />
-      <workItem from="1521009658061" duration="6551000" />
-      <workItem from="1521080260089" duration="14121000" />
-      <workItem from="1521105838354" duration="726000" />
-      <workItem from="1521122020249" duration="9816000" />
-      <workItem from="1521171421083" duration="2450000" />
-      <workItem from="1521355711945" duration="8773000" />
-      <workItem from="1521432702864" duration="2981000" />
-      <workItem from="1521443375658" duration="6285000" />
-      <workItem from="1521459735533" duration="1406000" />
-      <workItem from="1521476366911" duration="388000" />
-      <workItem from="1521521175265" duration="9470000" />
-      <workItem from="1521701578586" duration="10026000" />
-      <workItem from="1521770336549" duration="1459000" />
-      <workItem from="1521777000062" duration="94000" />
-      <workItem from="1521779129405" duration="8560000" />
-      <workItem from="1521862496810" duration="5813000" />
-      <workItem from="1521875565608" duration="2146000" />
-      <workItem from="1521891503289" duration="13572000" />
-      <workItem from="1521958160920" duration="2024000" />
-      <workItem from="1522040426399" duration="4702000" />
-      <workItem from="1522048067261" duration="4000" />
-      <workItem from="1522058970242" duration="95000" />
-      <workItem from="1522059429690" duration="91000" />
-      <workItem from="1522062186156" duration="191000" />
-      <workItem from="1522074349763" duration="208000" />
-      <workItem from="1522149128433" duration="61000" />
-      <workItem from="1522208930363" duration="3278000" />
-      <workItem from="1522213948722" duration="128000" />
-      <workItem from="1522214489549" duration="213000" />
-      <workItem from="1522321288008" duration="338000" />
-      <workItem from="1522551286150" duration="1109000" />
-      <workItem from="1522565136917" duration="1116000" />
-      <workItem from="1522566323070" duration="584000" />
-      <workItem from="1522636825327" duration="4685000" />
-      <workItem from="1522648765186" duration="2139000" />
-      <workItem from="1522650921337" duration="4201000" />
-      <workItem from="1522721879533" duration="791000" />
-      <workItem from="1522724960469" duration="914000" />
-      <workItem from="1522736489902" duration="19000" />
-      <workItem from="1522826230466" duration="251000" />
+      <updated>1531986426252</updated>
+      <workItem from="1531986428640" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219838000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="3000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23556942" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32917318" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27925116" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31669268" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524158" sideWeight="0.6770671" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524158" sideWeight="0.32293293" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937598" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.pug" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="Version-1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version-1.0" />
-  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="23" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/addSubject.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="44" column="95" lean-forward="true" selection-start-line="44" selection-start-column="95" selection-end-line="44" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/StudentModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/ExamDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-482">
-          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/studentCourse.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/enrolledStudent.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="60" column="56" lean-forward="false" selection-start-line="60" selection-start-column="56" selection-end-line="60" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/StudentCourseModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="33" column="108" lean-forward="true" selection-start-line="33" selection-start-column="108" selection-end-line="33" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/RelationshipController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/displayQuestion.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="45" column="80" lean-forward="true" selection-start-line="45" selection-start-column="80" selection-end-line="45" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/filter/DomainFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="37" column="120" lean-forward="true" selection-start-line="37" selection-start-column="120" selection-end-line="37" selection-end-column="120" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/RelationshipDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="64" column="49" lean-forward="true" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/registerAccount.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="34" column="151" lean-forward="false" selection-start-line="34" selection-start-column="151" selection-end-line="34" selection-end-column="151" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/adminHome.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/events.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/frontpage.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/CourseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="68" column="65" lean-forward="false" selection-start-line="68" selection-start-column="65" selection-end-line="68" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/displayStudent.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="34" column="51" lean-forward="false" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/StudentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="57" column="42" lean-forward="false" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/EventController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="84" column="43" lean-forward="true" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/editCourse.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/displayCourse.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/SubscriptionModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/pageHeader.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/SubscriptionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="85" column="58" lean-forward="false" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/addQuestion.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/addCourse.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd.java" />
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/ExamController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="107" column="35" lean-forward="false" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/studentHome.html" />
-    <entry file="file://$PROJECT_DIR$/web/404.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/displaySubject.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/displaySubscription.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="7" lean-forward="true" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/RegistrationModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/displayUser.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="60" column="103" lean-forward="true" selection-start-line="60" selection-start-column="103" selection-end-line="60" selection-end-column="103" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/RegistrationDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="137" column="22" lean-forward="false" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/CourseModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/RegistrationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="54" column="79" lean-forward="true" selection-start-line="54" selection-start-column="79" selection-end-line="54" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/MyConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/CourseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="74" lean-forward="true" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/backend/MailController.java" />
-    <entry file="file://$PROJECT_DIR$/src/filter/LoginFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mailController/MailController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/studentHome.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8126">
-          <caret line="478" column="42" lean-forward="false" selection-start-line="478" selection-start-column="42" selection-end-line="478" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/frontend/FrontendController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="40" column="63" lean-forward="false" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="31" column="74" lean-forward="true" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>InstituteManagementSystem:war exploded</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web (InstituteManagementSystem)|Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>hibernate-release-5.2.16</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1365,22 +237,9 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>InstituteManagementSystem</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>9.0</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1392,7 +251,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>mail</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
